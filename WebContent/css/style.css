@@ -1,0 +1,126 @@
+.{
+	margin=0;
+	padding=0;
+}
+
+body{
+	background-image: url("../images/header-bg.png");
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+#header-text{
+	margin-top:20px;
+}
+
+.btn-login-student{
+	margin-top:180px;
+	margin-bottom:20px;
+	border-radius: 4px;
+	transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    -webkit-transition: all 1s;
+}
+
+.btn-login-faculty{
+	border-radius: 4px;
+	transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    -webkit-transition: all 1s;
+}
+
+.student-login-page{
+	text-align: center;
+	margin-top: 250px;
+}
+
+.student-login-page p{
+	padding-top: 10px;
+}
+
+.btn-login{
+	margin-top:20px;
+	margin-bottom:20px;
+	border-radius: 8px;
+	transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    -webkit-transition: all 1s;
+}
+
+.all-proposals{
+	padding-top: 10px;
+	font-size: 20px;
+}
+
+.navbar-nav > li > a {
+	font-weight: bold;
+	color: #055A7D;
+    font-family: "Raleway", sans-serif;
+    transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    -webkit-transition: all 1s;
+
+}
+
+.navbar-default .navbar-nav > .active>a,
+.navbar-default .navbar-nav > .active>a:hover,
+.navbar-default .navbar-nav > .active>a:focus {
+    background-color: transparent;
+}
+
+.rules{
+	text-align: left;
+	font-size: 150%;
+	padding-bottom: 20px;
+}
+
+.rules-header{
+	margin-bottom: 40px;
+}
+
+.own-proposal{
+	margin-top: 100px;
+}
+.own-proposal p{
+	font-weight: bold;
+	font-size: 120%;
+}
+.btn-proposal{
+	border-radius: 8px;
+	transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    -webkit-transition: all 1s;
+}
+
+.power-off-button{
+	margin-top: 50px;
+}
+
+.project-pool{
+	overflow: scroll;
+	height: 530px;
+	text-align: left;
+	margin-top: 50px;
+	font-size: 20px;
+}
+.project-pool-apply{
+	margin-top: 50px;
+	font-size: 15px;
+}
+
+.proposal-form{
+	text-align: left;
+	margin-top: 40px;
+}
+
+.student-rules h4{
+	font-weight: bold;
+}
+.student-rules p{
+	text-align: left;
+}
